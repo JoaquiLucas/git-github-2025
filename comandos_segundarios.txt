@@ -1,1 +1,3 @@
 Este arquivo contém comandos segundarios para git
+
+- primeiro comando
